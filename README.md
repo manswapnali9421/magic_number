@@ -1,1 +1,1 @@
-# magic_number
+You are asked to play a game in which you have to guess magic number between 0 to 9 and if your guess is same as the magic number then you win else the system will print  the message the given number is either lower or higher than the magic number
